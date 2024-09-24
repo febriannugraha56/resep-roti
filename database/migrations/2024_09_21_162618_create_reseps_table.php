@@ -9,6 +9,10 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
+
+     
+    //// crud ////
+
     public function up()
     {
         Schema::create('reseps', function (Blueprint $table) {

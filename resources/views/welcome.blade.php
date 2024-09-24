@@ -128,7 +128,7 @@
         <div class="container">
             <h1 class="display-4 fw-bold" style="font-family: 'Georgia', serif;">Selamat Datang di D'roti-in</h1>
             <p class="lead">Resep roti khas Italia yang autentik dan lezat</p>
-            <a href="{{ route('reseps.index') }}" class="btn btn-warning btn-lg shadow-lg">Tambah Resep Roti</a>
+            <a href="{{ route('reseps.index') }}" class="btn btn-warning btn-lg shadow-lg">Login</a>
         </div>
     </header>
 
@@ -179,7 +179,7 @@
     <!-- Footer -->
     <footer class="footer text-center text-dark py-4">
         <div class="container">
-            <p class="mb-0">&copy; 2024 D'roti-in. All Rights Reserved.</p>
+            <p class="mb-0">&copy; 2024 D'roti-in.</p>
         </div>
     </footer>
 

@@ -31,10 +31,7 @@
             </div>
         </div>
 
-        <div class="text-center mt-4">
-        <a href="{{ route('reseps.index') }}" class="btn btn-info mb-5 btn-warning">Kembali</a>
 
-        </div>
 
         <!-- Tombol Instagram -->
     <a href="https://www.instagram.com/" class="btn btn-instagram btn-warning" target="_blank">
