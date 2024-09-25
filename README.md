@@ -27,4 +27,5 @@ website yang saya buat ini merupakan sebuah website untuk mencari tau resep roti
 
 
      ##usecase uml
-![Screenshot 2024-09-25 110753](https://github.com/user-attachments/assets/3f9ebaa1-abb2-4c2f-993f-01838922b591)
+
+![Screenshot 2024-09-25 111049](https://github.com/user-attachments/assets/b6e40c72-ef59-4328-a491-41bd118d4e7b)
