@@ -20,6 +20,11 @@ website yang saya buat ini merupakan sebuah website untuk mencari tau resep roti
 
 
 
-      ##IRD
+      ##erd
+
      
 ![Screenshot 2024-09-25 102755](https://github.com/user-attachments/assets/35189526-b653-4a8d-a237-1be498ef0be6)
+
+
+     ##usecase uml
+![Screenshot 2024-09-25 110753](https://github.com/user-attachments/assets/3f9ebaa1-abb2-4c2f-993f-01838922b591)
